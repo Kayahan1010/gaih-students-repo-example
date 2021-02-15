@@ -4,7 +4,6 @@
 **Course Date:** DD.MM.YYYY  
 **Name:** Kayahan   
 **Surname:** İnaltekin
-
 **Email:** kayahaninaltekin@icloud.com  
 
 **Note:** Your homeworks can be formats like ".ipynb" and ".py". **Not ".txt" files!!** Make sure that your codes works.  
